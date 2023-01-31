@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	
+	background-color: cadetblue;
+	
+}
+html {
+	scroll-behavior: smooth;
+}
+h1 {
+	text-align: center;
+	font-style: italic;
+	color: white;
+	margin: 50px 0;
+}
+
+p {
+	font-size: 20px;
+	font-style: italic;
+    margin: 30px;
+    text-align: justify ;
+}
+h2 {
+    margin: 30px;
+}
+img {
+	width: 250px;
+	height: 250px;
+    
+}
+.aside {
+    border-right: 1px solid white;
+    margin-right: 5px;
+    width: 20%;
+}
+.main {
+    border-left: 1px solid white;
+   
+    width: 78%;
+}
+.cont {
+    display: flex;
+}

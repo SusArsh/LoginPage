@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	
+	background-image: url("pexels-photo-399160.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+html {
+	scroll-behavior: smooth;
+}
+h1 {
+	text-align: center;
+	font-style: italic;
+	color: blueviolet;
+	margin: 100px 0;
+}
+
+p {
+	font-size: 20px;
+	font-style: italic;
+}
+img {
+	width: 250px;
+	height: 250px;
+}
